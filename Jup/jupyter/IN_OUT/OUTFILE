@@ -1,0 +1,25 @@
+<Sentence id="1">			
+1	((	NP	<fs af='टेबल,n,m,sg,3,d,0,0' head='tebala'>
+1.1	ये	DEM	<fs af='यह,pn,any,pl,3,d,0,0' name='ye'>
+1.2	टेबल	NN	<fs af='टेबल,n,m,sg,3,d,0,0' name='tebala'>
+	))		
+2	((	NP	<fs af='स्टैंड,n,m,sg,3,d,0,0' head='stEMda'>
+2.1	स्टैंड	NN	<fs af='स्टैंड,n,m,sg,3,d,0,0' name='stEMda'>
+	))		
+3	((	CCP	<fs af='और,avy,,,,,,' head='Ora'>
+3.1	और	CC	<fs af='और,avy,,,,,,' name='Ora'>
+	))		
+4	((	NP	<fs af='स्टैंड,n,m,sg,3,d,0,0' head='stEMda2'>
+4.1	वॉल	NNC	<fs af='वॉल,unk,,,,,,' name='vOYla'  poslcat="NM">
+4.2	स्टैंड	NN	<fs af='स्टैंड,n,m,sg,3,d,0,0' name='stEMda2'>
+	))		
+5	((	NP	<fs af='दोनों,n,m,sg,3,o,0_का_साथ,0' head='xonoM'  vpos="vib1_2_3">
+5.1	दोनों	NN	<fs af='दोनों,n,m,sg,3,o,0,0' name='xonoM'>
+	))		
+6	((	VGF	<fs af='आ,v,f,sg,2,,ता_है,wA' head='AwI'  vpos="tam1_2">
+6.1	आती	VM	<fs af='आ,v,f,sg,any,,ता,wA' name='AwI'>
+	))		
+7	((	BLK	<fs af='.,punc,,,,,,' head='.'>
+7.1	.	SYM	<fs af='.,punc,,,,,,' name='.'>
+	))		
+</Sentence>

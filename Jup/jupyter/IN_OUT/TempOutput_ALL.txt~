@@ -1,0 +1,23 @@
+यह	DEM	none	O	B
+हलका	NN	ा	B	I
+है।	VM	ा	I	O
+
+यह	DEM	none	O	O
+ऑफ़लाइन	NN	ा	O	B
+काम	NN	ा	O	I
+करता	VM	ता	O	O
+है	VAUX	none	O	O
+।	SYM	none	O	O
+
+यह	PRP	none	O	O
+सीमित	JJ	ा	B	O
+उपयोग	NN	ा	O	O
+का	PSP	none	O	O
+है।	SYM	ा	O	O
+
+इसमें	PRP	ें	O	B
+अनुकूलन	NN	ा	B	I
+का	PSP	none	O	O
+अभाव	NN	ा	O	O
+है	VM	none	B	B
+।	SYM	none	I	O
